@@ -17,6 +17,7 @@
  <a href="mailto: aten8824@gmail.com" class="fa-regular fa-envelope">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt="Gmail Badge"/>
   </a>
+  <br>
   <img src="https://komarev.com/ghpvc/?username=Aten2004&style=flat-square&color=blue" alt="account counter"/>
 </div>
 
