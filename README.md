@@ -14,10 +14,10 @@
   <a href="https://www.instagram.com/phurit_14/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-
  <a href="mailto: aten8824@gmail.com" class="fa-regular fa-envelope">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt="Gmail Badge"/>
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Aten2004&style=flat-square&color=blue" alt="account counter"/>
 </div>
 
 
