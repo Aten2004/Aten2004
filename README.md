@@ -10,7 +10,7 @@
 
 ----------------------------
 
-### Thammasat University student 
+### Thammasat University student
 
 ----------------------------
 
