@@ -12,9 +12,10 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://www.instagram.com/phurit_14/">
-    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/-Instagram-red?color=white&logo=instagram&logoColor=black&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
+
 
 **Aten2004/Aten2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
