@@ -1,8 +1,18 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Phurit Fuengfu
+### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Phurit Fuengfu
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Aten2004&style=flat-square&color=blue" alt="account counter"/>
+</div>
+
 ----------------------------
 
-Thammasat University student
-======================================================================================================================================
+### Thammasat University student 
+
+----------------------------
 
 * 🌍  I'm based in Pathum Thani, Thailand
 * ✉️  You can contact me at [aten8824@gmail.com](mailto:aten8824@gmail.com)
