@@ -16,7 +16,7 @@
   </a>
 
  <a href="mailto: aten8824@gmail.com" class="fa-regular fa-envelope">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=res alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt="Gmail Badge"/>
   </a>
 </div>
 
